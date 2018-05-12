@@ -1,0 +1,28 @@
+_repo: Foch-the-Man--A-Life-of-the-Supreme-Commander-of-the-Allied-Armies_17511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laughlin, Clara E. (Clara Elizabeth)
+    alias: Laughlin, Clara Elizabeth
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '6846'
+    url: http://www.gutenberg.org/2009/agents/6846
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foch, Ferdinand, 1851-1929'
+- !lcc 'DC'
+title: 'Foch the Man: A Life of the Supreme Commander of the Allied Armies'
+url: http://www.gutenberg.org/ebooks/17511
